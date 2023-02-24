@@ -5,4 +5,4 @@ class Wallet:
   def getBalance(self):
     return self.balance
   def removeBalance(self,i):
-    self.balance=self.balance-
+    self.balance=self.balance-i
